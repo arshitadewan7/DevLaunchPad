@@ -7,3 +7,43 @@ Simple fullstack project with separate `client` (React) and `server` (Node) fold
 cd client
 npm install
 npm run dev
+
+🚀 Run Backend
+
+cd server
+npm install
+npm start
+
+---
+
+## 📂 **Vue + FastAPI Fullstack Structure**
+fullstack/vue-fastapi-template/
+├── client/
+│ ├── package.json
+│ ├── index.html
+│ ├── vite.config.js
+│ └── src/
+│ ├── App.vue
+│ └── main.js
+├── server/
+│ ├── main.py
+│ └── requirements.txt
+└── README.md
+
+
+### **client/package.json**
+```json
+{
+  "name": "vue-client",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+
+

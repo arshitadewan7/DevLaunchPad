@@ -31,19 +31,5 @@ fullstack/vue-fastapi-template/
 └── README.md
 
 
-### **client/package.json**
-```json
-{
-  "name": "vue-client",
-  "scripts": {
-    "dev": "vite"
-  },
-  "dependencies": {
-    "vue": "^3.4.0"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
-}
 
 

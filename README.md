@@ -1,7 +1,6 @@
 # 🚀 DevLaunchPad
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-green)
 ![Stars](https://img.shields.io/github/stars/arshitadewan7/devlaunchpad?style=social)
 
